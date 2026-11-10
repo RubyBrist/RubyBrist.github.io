@@ -19,9 +19,7 @@ announcements:
   limit: 5
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
 Hello! My name is Ngoc (Ruby) Brist, and I currently work as an Investment Operations Analyst II in the Investment Department at Southern Methodist University (SMU). I am also pursuing a Master of Science in Data Science at SMU, where I am expanding my expertise in artificial intelligence, machine learning, and data analytics.
