@@ -27,4 +27,4 @@ The analysis explores factors associated with employee turnover, including overt
 
 Watch my project presentation below.
 
-{% include video.liquid path="https://www.youtube.com/embed/aY_OmCtHFpE" class="img-fluid rounded z-depth-1" controls=true %}
+[Watch my Frito Lay Employee Attrition Analysis Presentation on YouTube](https://www.youtube.com/watch?v=aY_OmCtHFpE)
