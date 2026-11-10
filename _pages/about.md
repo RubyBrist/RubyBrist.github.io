@@ -27,10 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! My name is **Ngoc (Ruby) Brist**. I am an Investment Operations Analyst II at Southern Methodist University (SMU), where I support investment operations, portfolio reconciliations, financial reporting, and investment data analysis.
+Hello! My name is Ngoc (Ruby) Brist, and I currently work as an Investment Operations Analyst II in the Investment Department at Southern Methodist University (SMU). I am also pursuing a Master of Science in Data Science at SMU, where I am expanding my expertise in artificial intelligence, machine learning, and data analytics.
 
-I am currently pursuing a **Master of Science in Data Science at SMU**, with a strong interest in applying statistical analysis, machine learning, and predictive modeling to investment management and financial operations.
-
-My professional interests include investment analytics, data science, financial automation, predictive modeling, and portfolio management.
-
-Through my graduate studies, I am developing skills in R, statistical modeling, data visualization, and machine learning. My goal is to combine my professional experience with advanced analytical techniques to improve investment decision-making and operational efficiency.
+With nearly 20 years of experience in Investment Operations and Capital Markets, my background includes investment operations, trade support, reconciliations, cash management, portfolio reporting, and process improvement. I am passionate about combining my financial industry experience with AI and data-driven solutions to improve operational efficiency, strengthen risk management, and support more informed investment decision-making.
