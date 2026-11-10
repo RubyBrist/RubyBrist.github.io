@@ -1,11 +1,14 @@
 
 ---
 layout: page
-title: Frito Lay Employee Attrition Analysis
-description: Employee retention analysis using R and machine learning.
-img:
-importance: 1
-category: data-science
+title: projects
+permalink: /projects/
+description: My Data Science and Investment Analytics Projects
+nav: true
+nav_order: 3
+display_categories:
+  - data-science
+horizontal: false
 ---
 
 ## Project Overview
