@@ -2,7 +2,7 @@
 layout: page
 title: Frito Lay Employee Attrition Analysis
 description: Employee Attrition Analysis using Machine Learning
-img: assets/img/Frito Lay Image
+img: assets/img/Frito Lay Image.png
 importance: 1
 category: Data-Science
 ---
