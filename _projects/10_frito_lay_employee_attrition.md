@@ -30,5 +30,5 @@ Watch my project presentation below.
 
 ### Complete R Markdown Report
 
-[View my Frito Lay Employee Attrition Analysis Report](/assets/reports/YOUR-FILENAME.html)
+[View my Frito Lay Employee Attrition Analysis Report](/assets/reports/Ruby_Brist - FritoLay_Employee_Attrition_Analysis.html)
 
