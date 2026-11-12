@@ -57,3 +57,9 @@ horizontal: false
       {% endif %}
     {% endif %}
 </div>
+
+---
+
+### Complete R Markdown Report
+
+[View my Frito Lay Employee Attrition Analysis Report](https://rubybrist.github.io/assets/reports/Ruby_Brist%20-%20FritoLay_Employee_Attrition_Analysis.html)
